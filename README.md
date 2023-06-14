@@ -6,7 +6,8 @@ GET Endpoints:
 
 /calc
    - Takes two fractions and an operator, and computes the result.
-   - Please format your fractions like [integer]/[integer].
+   - Please format your fractions like [integer]/[integer]. You may also insert
+     just an integer.
    - Available operators:
        * Multiplication *
        * Division /
